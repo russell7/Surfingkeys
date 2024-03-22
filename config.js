@@ -1,4 +1,10 @@
 settings.hintAlign = "right";
+settings.defaultSearchEngine = "w";
+api.unmap('sb');
+api.unmap('sd');
+api.unmap('se');
+api.unmap('sg');
+api.unmap('sy');
 
 settings.theme = `
 .sk_theme {
